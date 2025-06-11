@@ -3,7 +3,8 @@ Thank you guys for making this project better!
 
 ## Repo Owners
  - [@SkyLothar](https://github.com/skylothar) <allothar@gmail.com>
-
+ - [@cdbattags](https://github.com/cdbattags/lua-resty-jwt) 
+ 
 ## Tons of Features
  - Em. [@fermaem](https://github.com/fermaem)
  - Nathan Toone [@toonetown](https://github.com/toonetown)

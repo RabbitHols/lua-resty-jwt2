@@ -1,6 +1,6 @@
 rockspec_format = '3.0'
 package = 'lua-resty-jwt'
-version = 'dev-0'
+version = '1.0.0'
 source = {
   url = 'file://.'
 }
@@ -12,7 +12,7 @@ description = {
     the LuaJIT 2.0, the lua-resty-hmac,
     and the lua-resty-string,
   ]],
-  homepage = 'https://github.com/cdbattags/lua-resty-jwt',
+  homepage = 'https://github.com/RabbitHols/lua-resty-jwt2',
   license = 'Apache License Version 2'
 }
 dependencies = {
