@@ -1,10 +1,6 @@
 **DISCLAIMER:**
  
-As discussed in https://github.com/SkyLothar/lua-resty-jwt/issues/85, this project is a fork of https://github.com/SkyLothar/lua-resty-jwt by @SkyLothar that has now been adopted by all interested parties including:
-- [zmartzone/lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc)
-  - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
-
----
+This project is a fork of lua-resty-jwt by @cdbattags, created specifically to publish the fix addressing the security vulnerability identified as CVE-2024-33531.
 
 # Name
 
