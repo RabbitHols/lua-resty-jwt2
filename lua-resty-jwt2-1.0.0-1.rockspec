@@ -2,7 +2,7 @@ rockspec_format = '3.0'
 package = 'lua-resty-jwt2'
 version = '1.0.0-1'
 source = {
-  url = 'https://github.com/RabbitHols/lua-resty-jwt2/archive/refs/tags/v1.0.0.tar.gz',
+  url = 'file://.'
 }
 description = {
   summary = 'JWT for ngx_lua and LuaJIT.',
